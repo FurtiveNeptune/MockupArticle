@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+ 
+I've learned how to effectively research about things I don't know or understand. That is perhaps the biggest skill I've learned. HTML and CSS in general seem to be pretty easy, while I've struggled a little with Javascript and jQuery.
+And YES! I have used google and stack overflow a ton on my projects, as well as remaining committed to solving the problem, and resorting to help if needed.
